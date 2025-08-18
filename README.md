@@ -1,4 +1,4 @@
-# email.crowdcontrol.bugcrowd.com
+email.crowdcontrol.bugcrowd.com
 
 
 subdomain takeover
